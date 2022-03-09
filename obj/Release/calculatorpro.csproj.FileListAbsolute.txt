@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\calculatorpro\calculatorpro\bin\Release\calculatorpro.exe.config
+C:\Users\Dell\source\repos\calculatorpro\calculatorpro\bin\Release\calculatorpro.exe
+C:\Users\Dell\source\repos\calculatorpro\calculatorpro\bin\Release\calculatorpro.pdb
+C:\Users\Dell\source\repos\calculatorpro\calculatorpro\obj\Release\calculatorpro.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\calculatorpro\calculatorpro\obj\Release\calculatorpro.Form1.resources
+C:\Users\Dell\source\repos\calculatorpro\calculatorpro\obj\Release\calculatorpro.Properties.Resources.resources
+C:\Users\Dell\source\repos\calculatorpro\calculatorpro\obj\Release\calculatorpro.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\calculatorpro\calculatorpro\obj\Release\calculatorpro.exe
+C:\Users\Dell\source\repos\calculatorpro\calculatorpro\obj\Release\calculatorpro.pdb
